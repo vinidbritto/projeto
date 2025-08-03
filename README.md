@@ -7,4 +7,4 @@ O aplicativo permite visualizar um histograma da quilometragem dos veículos, cr
 
 https://github.com/vinidbritto/projeto
 
-https://projeto-9vi2.onrender.com
+https://projeto-2-edaj.onrender.com
