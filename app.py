@@ -8,7 +8,7 @@ st.header("Análise Exploratória de Dados")
 
 if st.checkbox("Mostrar Dados de Quilometragem"):
     st.write('Criando histograma para o conjunto de dados de vendas de veículos')
-    fig = px.scatter(car_data, x="odometer")
+    fig = px.histogram(car_data, x="odometer")
     st.plotly_chart(fig, use_container_width=True, key='histogram_plot')
 
 
